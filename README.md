@@ -59,6 +59,16 @@
 # Bonus Tugas:
 Buat program CLI sederhana (gunakan readline-sync) untuk:
 
-    Menyimpan data peserta (nama, umur) ke dalam array of object.
+1. Menyimpan data peserta (nama, umur) ke dalam array of object.
 
-    Tampilkan peserta dengan umur tertua.
+2. Tampilkan peserta dengan umur tertua.
+
+
+# Struktur File Tugas:
+    task1/  
+    ├── pengenalan.js  
+    ├── variabel-dan-tipe-data.js  
+    ├── operator.js  
+    ├── struktur-kendali.js  
+    ├── fungsi.js  
+    └── array-object.js  
